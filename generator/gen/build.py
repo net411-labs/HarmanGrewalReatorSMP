@@ -34,7 +34,8 @@ body {{ font-variant-numeric:lining-nums; font-family:'Inter',sans-serif; color:
 .foot .sub {{ font-size:16px; letter-spacing:.12em; white-space:nowrap; text-transform:uppercase; color:var(--mute); margin-top:6px; }}
 .foot .ph {{ text-align:right; }}
 .foot .ph b {{ display:block; font-size:36px; font-weight:700; letter-spacing:.02em; }}
-.foot .ph span {{ font-size:16px; color:var(--mute); }}
+.foot .ph em {{ display:block; font-style:normal; font-size:19px; font-weight:600; color:var(--gold); letter-spacing:.02em; margin:2px 0; }}
+.foot .ph span {{ font-size:15px; color:var(--mute); }}
 .src {{ position:absolute; left:72px; right:72px; bottom:164px; font-size:15px; color:#6d6d75; line-height:1.4; }}
 """
 
@@ -43,7 +44,7 @@ def footer():
   <img class="logo" src="{ASSETS}/hg_gold_t.png">
   <div class="who"><div class="name">Harman <i>Grewal</i></div>
     <div class="sub">Realtor® · Royal LePage Global Force Realty</div></div>
-  <div class="ph"><b>604.562.4004</b><span>English · ਪੰਜਾਬੀ · हिन्दी</span></div>
+  <div class="ph"><b>604.562.4004</b><em>harmangrewalrealtor.ca</em><span>English · ਪੰਜਾਬੀ · हिन्दी</span></div>
 </div>"""
 
 def chg(v):

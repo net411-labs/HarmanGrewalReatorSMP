@@ -19,6 +19,7 @@ What it means: if you've been waiting on the sidelines in Surrey, Langley or Nor
 
 ਪੰਜਾਬੀ ਅਤੇ ਹਿੰਦੀ ਵਿੱਚ ਵੀ ਸੇਵਾ ਉਪਲਬਧ।
 
+🌐 www.harmangrewalrealtor.ca
 Harman Grewal, REALTOR® · Royal LePage Global Force Realty
 Source: Fraser Valley Real Estate Board
 
@@ -41,6 +42,7 @@ For buyers, that means more choice and real room to negotiate. For sellers, pric
 
 Thinking about a move in Surrey? Call or text 604.562.4004 and I'll send you the numbers for your exact neighbourhood.
 
+🌐 www.harmangrewalrealtor.ca
 Harman Grewal, REALTOR® · Royal LePage Global Force Realty
 Source: Fraser Valley Real Estate Board
 
@@ -61,6 +63,7 @@ Benchmark prices (City + Township):
 
 Townhomes in areas like Willoughby and Walnut Grove are a popular choice for growing families. Want a list of what's available in your price range? DM me or call 604.562.4004.
 
+🌐 www.harmangrewalrealtor.ca
 Harman Grewal, REALTOR® · Royal LePage Global Force Realty
 Source: Fraser Valley Real Estate Board
 
@@ -83,6 +86,7 @@ The standout: a detached home in North Delta benchmarks about $225,000 below Sur
 
 Call or text 604.562.4004 for a tour of what's on the market right now.
 
+🌐 www.harmangrewalrealtor.ca
 Harman Grewal, REALTOR® · Royal LePage Global Force Realty
 Source: Fraser Valley Real Estate Board
 
@@ -101,6 +105,7 @@ Today's detached benchmark is $1,300,000, and active listings are 31% above the 
 If you were priced out in 2022, it's worth running the numbers again. Send me a message with your budget and the area you like (Surrey, Langley or Delta) and I'll show you what's realistically available.
 
 📞 604.562.4004
+🌐 www.harmangrewalrealtor.ca
 Harman Grewal, REALTOR® · Royal LePage Global Force Realty
 
 #FraserValleyRealEstate #SurreyRealEstate #LangleyRealEstate #DeltaBC #HomeBuyingTips #FirstTimeHomeBuyer #BCRealEstate #RoyalLePage
@@ -123,7 +128,7 @@ I work in English, ਪੰਜਾਬੀ and हिन्दी.
 
 📞 604.562.4004
 ✉️ harman.grewal.realtor@gmail.com
-🌐 harmangrewal.royallepage.ca
+🌐 www.harmangrewalrealtor.ca
 
 #SurreyRealtor #LangleyRealtor #DeltaRealtor #PunjabiRealtor #SurreyRealEstate #RoyalLePage #RealEstateAgent #FraserValley
 
