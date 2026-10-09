@@ -1,0 +1,221 @@
+{
+  "title": "October 2026 posts (September 2026 market data)",
+  "posts": [
+    {
+      "id": "01-fraser-valley-market-sept-2026",
+      "date": "Thu Oct 8",
+      "template": "stats_region",
+      "eyebrow": "Fraser Valley · September 2026",
+      "title_html": "Prices soft,<br><i>choice is up.</i>",
+      "lede": "Benchmark prices slipped again in September while inventory sits well above normal. A strong month to buy.",
+      "rows": [
+        {
+          "type": "Detached",
+          "price": "$1,300,000",
+          "yoy": -8.8
+        },
+        {
+          "type": "Townhome",
+          "price": "$745,300",
+          "yoy": -6.2
+        },
+        {
+          "type": "Apartment",
+          "price": "$461,800",
+          "yoy": -9.3
+        }
+      ],
+      "kpis": [
+        {
+          "value": "922",
+          "label": "Homes sold"
+        },
+        {
+          "value": "9,763",
+          "label": "Active listings"
+        },
+        {
+          "value": "+31%",
+          "label": "Inventory vs 10-yr avg"
+        }
+      ],
+      "source": "Source: Fraser Valley Real Estate Board, September 2026 market report. Benchmark prices, MLS® HPI. Not intended to solicit properties currently listed for sale.",
+      "caption": "📊 Fraser Valley market update: September 2026\n\nPrices softened again last month, and buyers have more choice than they've had in years:\n\n🏡 Detached benchmark: $1,300,000 (down 8.8% from last year)\n🏘️ Townhome: $745,300 (down 6.2%)\n🏢 Apartment: $461,800 (down 9.3%)\n\n📈 9,763 active listings, 31% above the 10-year seasonal average\n🔑 922 sales, about the same as last September\n\nWhat it means: if you've been waiting on the sidelines in Surrey, Langley or North Delta, this is a market where buyers can negotiate. DM me or call 604.562.4004 for a free price check on any neighbourhood.\n\nਪੰਜਾਬੀ ਅਤੇ ਹਿੰਦੀ ਵਿੱਚ ਵੀ ਸੇਵਾ ਉਪਲਬਧ।\n\nHarman Grewal, REALTOR® · Royal LePage Global Force Realty\nSource: Fraser Valley Real Estate Board\n\n#SurreyRealEstate #LangleyRealEstate #DeltaRealEstate #FraserValleyRealEstate #BCRealEstate #MarketUpdate #HomeBuyers #SurreyBC #LangleyBC #RoyalLePage"
+    },
+    {
+      "id": "02-surrey-sept-2026",
+      "date": "Tue Oct 13",
+      "template": "stats_city",
+      "eyebrow": "Market snapshot · September 2026",
+      "city_html": "Surrey<i>.</i>",
+      "tag": "Buyer's market",
+      "prices": [
+        {
+          "type": "Detached",
+          "price": "$1.386M"
+        },
+        {
+          "type": "Townhouse",
+          "price": "$758.6K"
+        },
+        {
+          "type": "Apartment",
+          "price": "$447.6K"
+        }
+      ],
+      "kpis": [
+        {
+          "value": "404",
+          "label": "Homes sold"
+        },
+        {
+          "value": "4,293",
+          "label": "Active listings"
+        },
+        {
+          "value": "9.4%",
+          "label": "Sales-to-active ratio"
+        }
+      ],
+      "note_html": "Under <b>12%</b> sales-to-active is a buyer's market. Surrey buyers have room to negotiate on price, conditions and possession dates.",
+      "source": "Source: Fraser Valley Real Estate Board municipal report, September 2026. Ratio calculated from sales ÷ active listings. Not intended to solicit properties currently listed for sale.",
+      "caption": "📍 Surrey market snapshot: September 2026\n\nBenchmark prices:\n🏡 Detached $1,386,200\n🏘️ Townhouse $758,600\n🏢 Apartment $447,600\n\n404 homes sold against 4,293 active listings. That's a 9.4% sales-to-active ratio, which puts Surrey firmly in buyer's market territory (under 12%).\n\nFor buyers, that means more choice and real room to negotiate. For sellers, pricing right from day one matters more than ever.\n\nThinking about a move in Surrey? Call or text 604.562.4004 and I'll send you the numbers for your exact neighbourhood.\n\nHarman Grewal, REALTOR® · Royal LePage Global Force Realty\nSource: Fraser Valley Real Estate Board\n\n#SurreyRealEstate #SurreyBC #SurreyHomes #NewtonSurrey #FleetwoodSurrey #CloverdaleBC #BuyersMarket #FirstTimeHomeBuyer #RoyalLePage",
+      "ratio": 9.4
+    },
+    {
+      "id": "03-langley-sept-2026",
+      "date": "Thu Oct 15",
+      "template": "stats_city",
+      "eyebrow": "Market snapshot · September 2026",
+      "city_html": "Langley<i>.</i>",
+      "tag": "Balanced market",
+      "prices": [
+        {
+          "type": "Detached",
+          "price": "$1.471M"
+        },
+        {
+          "type": "Townhouse",
+          "price": "$802.6K"
+        },
+        {
+          "type": "Apartment",
+          "price": "$525.9K"
+        }
+      ],
+      "kpis": [
+        {
+          "value": "226",
+          "label": "Homes sold"
+        },
+        {
+          "value": "1,438",
+          "label": "Active listings"
+        },
+        {
+          "value": "15.7%",
+          "label": "Sales-to-active ratio"
+        }
+      ],
+      "note_html": "Langley is holding up better than the wider Fraser Valley, sitting in the <b>12–20%</b> balanced range. Well-priced homes are still moving.",
+      "source": "Source: Fraser Valley Real Estate Board municipal report, September 2026 (City and Township combined). Ratio calculated from sales ÷ active listings. Not intended to solicit properties currently listed for sale.",
+      "caption": "📍 Langley market snapshot: September 2026\n\nBenchmark prices (City + Township):\n🏡 Detached $1,471,100\n🏘️ Townhouse $802,600\n🏢 Apartment $525,900\n\n226 homes sold with 1,438 active listings, a 15.7% sales-to-active ratio. That's balanced territory (12–20%), so Langley is holding steadier than the Fraser Valley overall.\n\nTownhomes in areas like Willoughby and Walnut Grove are a popular choice for growing families. Want a list of what's available in your price range? DM me or call 604.562.4004.\n\nHarman Grewal, REALTOR® · Royal LePage Global Force Realty\nSource: Fraser Valley Real Estate Board\n\n#LangleyRealEstate #LangleyBC #Willoughby #WalnutGrove #TownhomeLiving #FraserValley #MarketUpdate #RoyalLePage",
+      "ratio": 15.7
+    },
+    {
+      "id": "04-north-delta-sept-2026",
+      "date": "Tue Oct 20",
+      "template": "stats_city",
+      "eyebrow": "Market snapshot · September 2026",
+      "city_html": "N. Delta<i>.</i>",
+      "tag": "Balanced market",
+      "prices": [
+        {
+          "type": "Detached",
+          "price": "$1.160M"
+        },
+        {
+          "type": "Townhouse",
+          "price": "$845.6K"
+        },
+        {
+          "type": "Apartment",
+          "price": "$479.0K"
+        }
+      ],
+      "kpis": [
+        {
+          "value": "39",
+          "label": "Homes sold"
+        },
+        {
+          "value": "321",
+          "label": "Active listings"
+        },
+        {
+          "value": "12.1%",
+          "label": "Sales-to-active ratio"
+        }
+      ],
+      "note_html": "Detached homes here sit roughly <b>$225K below Surrey's</b> benchmark, one of the best values for a house in the area.",
+      "source": "Source: Fraser Valley Real Estate Board municipal report, September 2026. Ratio calculated from sales ÷ active listings. Not intended to solicit properties currently listed for sale.",
+      "caption": "📍 North Delta market snapshot: September 2026\n\nBenchmark prices:\n🏡 Detached $1,159,600\n🏘️ Townhouse $845,600\n🏢 Apartment $479,000\n\n39 sales and 321 active listings, a 12.1% sales-to-active ratio, right at the line between a buyer's and a balanced market.\n\nThe standout: a detached home in North Delta benchmarks about $225,000 below Surrey. If you want a house rather than a townhome, it's worth a look.\n\nCall or text 604.562.4004 for a tour of what's on the market right now.\n\nHarman Grewal, REALTOR® · Royal LePage Global Force Realty\nSource: Fraser Valley Real Estate Board\n\n#NorthDelta #DeltaBC #DeltaRealEstate #SurreyRealEstate #DetachedHome #HomeBuyers #FraserValley #RoyalLePage",
+      "ratio": 12.1
+    },
+    {
+      "id": "05-insight-460k-below-peak",
+      "date": "Thu Oct 22",
+      "template": "insight",
+      "eyebrow": "Buyer insight · Fraser Valley",
+      "number_html": "$460K<i>.</i>",
+      "caption_html": "That's how far the typical detached home has fallen from its <i>March 2022 peak.</i>",
+      "body": "The Fraser Valley detached benchmark is now $1.3M. With 31% more listings than a normal fall, buyers are negotiating harder than they could at any point in the last four years.",
+      "cta": "Ask me what your budget buys today",
+      "source": "Source: Fraser Valley Real Estate Board, September 2026 market report. Not intended to solicit properties currently listed for sale.",
+      "caption": "💡 $460,000.\n\nThat's how far the benchmark price of a detached home in the Fraser Valley has dropped from its March 2022 peak, according to the Fraser Valley Real Estate Board.\n\nToday's detached benchmark is $1,300,000, and active listings are 31% above the 10-year average for this time of year. Translation: more homes to choose from, more room to negotiate, and less pressure to waive conditions.\n\nIf you were priced out in 2022, it's worth running the numbers again. Send me a message with your budget and the area you like (Surrey, Langley or Delta) and I'll show you what's realistically available.\n\n📞 604.562.4004\nHarman Grewal, REALTOR® · Royal LePage Global Force Realty\n\n#FraserValleyRealEstate #SurreyRealEstate #LangleyRealEstate #DeltaBC #HomeBuyingTips #FirstTimeHomeBuyer #BCRealEstate #RoyalLePage"
+    },
+    {
+      "id": "06-brand-intro",
+      "date": "Tue Oct 27",
+      "template": "brand",
+      "eyebrow": "Surrey · Langley · Delta",
+      "title_html": "Your next move,<i>handled right.</i>",
+      "points": [
+        "Homes & first-time buyers",
+        "Investment & income property",
+        "Land, acreage & farms",
+        "Commercial & small business"
+      ],
+      "caption": "👋 New to the page? I'm Harman Grewal, a REALTOR® with Royal LePage Global Force Realty serving Surrey, Langley and Delta.\n\nI bring 20+ years of combined experience in business, construction and real estate, which helps when you're judging a home's condition, a renovation's real cost, or a property's income potential.\n\nI help with:\n01 Homes, new builds and resale for first-time buyers and families\n02 Investment, multi-family and rental properties\n03 Land, acreage and agricultural properties\n04 Commercial, retail and small business\n\nI work in English, ਪੰਜਾਬੀ and हिन्दी.\n\n📞 604.562.4004\n✉️ harman.grewal.realtor@gmail.com\n🌐 harmangrewal.royallepage.ca\n\n#SurreyRealtor #LangleyRealtor #DeltaRealtor #PunjabiRealtor #SurreyRealEstate #RoyalLePage #RealEstateAgent #FraserValley"
+    },
+    {
+      "id": "TEMPLATE-just-listed",
+      "date": "use when a listing goes live",
+      "template": "listing",
+      "badge": "Just listed",
+      "price": "$000,000",
+      "address": "Street address goes here",
+      "area": "Neighbourhood · City",
+      "facts": [
+        [
+          "Bedrooms",
+          "0"
+        ],
+        [
+          "Bathrooms",
+          "0"
+        ],
+        [
+          "Sq ft",
+          "0,000"
+        ],
+        [
+          "Lot",
+          "0,000 sf"
+        ]
+      ],
+      "source": "",
+      "caption": "TEMPLATE: send me the listing photo, price, address, beds, baths, square footage and 3 highlights, and I'll fill this in and render the image."
+    }
+  ]
+}
