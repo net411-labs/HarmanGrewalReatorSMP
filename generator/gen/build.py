@@ -185,7 +185,28 @@ def listing(p):
 <div class="area">{e(p['area'])}</div><div class="facts">{facts}</div></div>
 <div class="src">{e(p.get('source',''))}</div>{footer()}"""
 
-TEMPLATES = dict(stats_region=stats_region, stats_city=stats_city, insight=insight, brand=brand, listing=listing)
+def tips(p):
+    items = "".join(f"""<div class="tip"><b class="serif">{i+1:02d}</b><div><h3>{e(t['title'])}</h3><p>{e(t['body'])}</p></div></div>"""
+                    for i, t in enumerate(p["tips"]))
+    return f"""<style>
+.title {{ font-size:80px; line-height:1.02; font-weight:700; margin:22px 0 40px; }}
+.title i {{ color:var(--red2); font-weight:500; }}
+.tip {{ display:flex; gap:28px; padding:24px 0; border-top:1px solid var(--line); }}
+.tip b {{ font-size:46px; color:var(--gold); min-width:72px; }}
+.tip h3 {{ font-size:32px; font-weight:600; }}
+.tip p {{ font-size:23px; color:#b9b9c0; margin-top:6px; line-height:1.35; }}
+.tcta {{ position:absolute; left:72px; bottom:230px; font-size:26px; font-weight:600; background:var(--red); padding:16px 28px; border-radius:999px; }}
+</style>
+<div class="glow" style="width:620px;height:620px;right:-240px;top:-220px;background:radial-gradient(circle,rgba(225,38,45,.5),transparent 65%)"></div>
+<div class="frame">
+  <div class="eyebrow">{e(p['eyebrow'])}</div>
+  <h1 class="title serif">{p['title_html']}</h1>
+  {items}
+</div>
+{f'<div class="tcta">{e(p["cta"])}</div>' if p.get('cta') else ''}
+<div class="src">{e(p.get('source',''))}</div>{footer()}"""
+
+TEMPLATES = dict(stats_region=stats_region, stats_city=stats_city, insight=insight, brand=brand, listing=listing, tips=tips)
 
 def render(post, out_png):
     body = TEMPLATES[post["template"]](post)
