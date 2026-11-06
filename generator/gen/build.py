@@ -114,9 +114,9 @@ def stats_city(p):
   <div class="tag">{e(p['tag'])}</div>
   <div class="lbl">Benchmark price</div>
   <div class="pcs" style="margin-top:14px">{cards}</div>
-  <div class="big">{''.join(f'<div><b>{e(k["value"])}</b><span>{e(k["label"])}</span></div>' for k in p['kpis'])}</div>
-  <div class="gauge">{gauge(p['ratio'])}</div>
-  <p class="note">{p['note_html']}</p>
+  <div class="big"{'' if p.get('ratio') is not None else ' style="margin-top:80px"'}>{''.join(f'<div><b>{e(k["value"])}</b><span>{e(k["label"])}</span></div>' for k in p['kpis'])}</div>
+  {f'<div class="gauge">{gauge(p["ratio"])}</div>' if p.get('ratio') is not None else ''}
+  <p class="note"{'' if p.get('ratio') is not None else ' style="margin-top:80px;font-size:34px"'}>{p['note_html']}</p>
 </div>
 <div class="src">{e(p['source'])}</div>{footer()}"""
 

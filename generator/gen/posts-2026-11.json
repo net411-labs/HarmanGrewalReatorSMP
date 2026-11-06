@@ -1,0 +1,253 @@
+{
+  "title": "November 2026 posts (October 2026 market data)",
+  "posts": [
+    {
+      "id": "01-fraser-valley-market-oct-2026",
+      "date": "Wed Nov 11",
+      "template": "stats_region",
+      "eyebrow": "Fraser Valley · October 2026",
+      "title_html": "Sales are up,<br><i>prices holding.</i>",
+      "lede": "Home sales jumped 14% from September while benchmark prices barely moved. Buyers still hold the advantage.",
+      "rows": [
+        {
+          "type": "Detached",
+          "price": "$1,293,800",
+          "yoy": -8.5
+        },
+        {
+          "type": "Townhome",
+          "price": "$742,300",
+          "yoy": -5.5
+        },
+        {
+          "type": "Apartment",
+          "price": "$460,800",
+          "yoy": -8.1
+        }
+      ],
+      "kpis": [
+        {
+          "value": "1,051",
+          "label": "Homes sold (+14% vs Sept)"
+        },
+        {
+          "value": "9,164",
+          "label": "Active listings"
+        },
+        {
+          "value": "11%",
+          "label": "Sales-to-active (buyer's)"
+        }
+      ],
+      "source": "Source: Fraser Valley Real Estate Board, October 2026 market report. Benchmark prices, MLS® HPI. Not intended to solicit properties currently listed for sale.",
+      "caption": "📊 Fraser Valley market update: October 2026\n\nBuyers came back in October. Sales rose 14% from September to 1,051 homes, while prices stayed almost flat:\n\n🏡 Detached benchmark: $1,293,800 (down 8.5% from last year)\n🏘️ Townhome: $742,300 (down 5.5%)\n🏢 Apartment: $460,800 (down 8.1%)\n\n📉 Active listings fell to 9,164\n⚖️ Sales-to-active ratio: 11%, still a buyer's market (balanced is 12–20%)\n\nThe board's CEO put it simply: \"Much of the pandemic-era price growth in the Fraser Valley has been erased.\" If you've been waiting, this is the window. DM me or call 604.562.4004 for a free price check on any neighbourhood in Surrey, Langley or Delta.\n\nਪੰਜਾਬੀ ਅਤੇ ਹਿੰਦੀ ਵਿੱਚ ਵੀ ਸੇਵਾ ਉਪਲਬਧ।\n\n🌐 www.harmangrewalrealtor.ca\nHarman Grewal, REALTOR® · Royal LePage Global Force Realty\nSource: Fraser Valley Real Estate Board\n\n#SurreyRealEstate #LangleyRealEstate #DeltaRealEstate #FraserValleyRealEstate #BCRealEstate #MarketUpdate #HomeBuyers #SurreyBC #LangleyBC #RoyalLePage"
+    },
+    {
+      "id": "02-first-home-5-steps",
+      "date": "Thu Nov 12",
+      "template": "tips",
+      "eyebrow": "First-time buyers · Surrey · Langley · Delta",
+      "title_html": "Buying your first home?<br><i>Start here.</i>",
+      "tips": [
+        {
+          "title": "Get pre-approved",
+          "body": "Know your real budget and lock in a rate before you start touring."
+        },
+        {
+          "title": "Budget for closing costs",
+          "body": "Plan for legal fees, inspection, insurance and any property transfer tax."
+        },
+        {
+          "title": "Ask about first-time buyer programs",
+          "body": "Federal and BC programs can save you thousands. Your lender can confirm what you qualify for."
+        },
+        {
+          "title": "Shortlist neighbourhoods",
+          "body": "Commute, schools and future transit matter as much as the house itself."
+        },
+        {
+          "title": "Have a local REALTOR® on your side",
+          "body": "In a buyer's market, a strong negotiator can make a real difference."
+        }
+      ],
+      "cta": "Save this  ·  DM me \"GUIDE\" for my buyer checklist",
+      "source": "General information only. Confirm program eligibility with your lender. Not intended to solicit properties currently listed for sale.",
+      "caption": "🔑 Buying your first home in Surrey, Langley or Delta? Start here.\n\n01 Get pre-approved. Know your real budget before you tour.\n02 Budget for closing costs: legal fees, inspection, insurance and any property transfer tax.\n03 Ask about first-time buyer programs. Federal and BC programs can save you thousands.\n04 Shortlist neighbourhoods. Commute, schools and future transit matter.\n05 Have a local REALTOR® on your side to negotiate for you.\n\nWith prices down from last year and more homes to choose from, it's a good time to get your plan in place.\n\n📌 Save this and send it to a friend who's thinking of buying.\nDM me \"GUIDE\" and I'll send you my first-time buyer checklist.\n\n🌐 www.harmangrewalrealtor.ca\nHarman Grewal, REALTOR® · Royal LePage Global Force Realty · 604.562.4004\n\n#FirstTimeHomeBuyer #SurreyRealEstate #LangleyRealEstate #DeltaBC #HomeBuyingTips #FraserValley #BCRealEstate #RoyalLePage"
+    },
+    {
+      "id": "03-surrey-oct-2026",
+      "date": "Fri Nov 13",
+      "template": "stats_city",
+      "eyebrow": "Market snapshot · October 2026",
+      "city_html": "Surrey<i>.</i>",
+      "tag": "Prices below last year",
+      "prices": [
+        {
+          "type": "Detached",
+          "price": "$1.380M"
+        },
+        {
+          "type": "Townhouse",
+          "price": "$757.3K"
+        },
+        {
+          "type": "Apartment",
+          "price": "$443.9K"
+        }
+      ],
+      "kpis": [
+        {
+          "value": "-7.7%",
+          "label": "Detached vs Oct 2025"
+        },
+        {
+          "value": "-5.5%",
+          "label": "Townhouse vs Oct 2025"
+        },
+        {
+          "value": "-9.6%",
+          "label": "Apartment vs Oct 2025"
+        }
+      ],
+      "note_html": "A typical detached home in Surrey costs about <b>$115,000 less</b> than it did last October.",
+      "source": "Source: Fraser Valley Real Estate Board, October 2026 statistics package (City of Surrey combined). Benchmark prices, MLS® HPI. Not intended to solicit properties currently listed for sale.",
+      "caption": "📍 Surrey market snapshot: October 2026\n\nBenchmark prices and change from last October:\n🏡 Detached $1,380,100 (down 7.7%)\n🏘️ Townhouse $757,300 (down 5.5%)\n🏢 Apartment $443,900 (down 9.6%)\n\nThat's about $115,000 off a typical Surrey detached home compared to a year ago ($1,495,300 last October).\n\nThinking about moving up, or buying your first place in Surrey? Call or text 604.562.4004 and I'll send you the numbers for your exact neighbourhood.\n\n🌐 www.harmangrewalrealtor.ca\nHarman Grewal, REALTOR® · Royal LePage Global Force Realty\nSource: Fraser Valley Real Estate Board\n\n#SurreyRealEstate #SurreyBC #SurreyHomes #NewtonSurrey #FleetwoodSurrey #CloverdaleBC #BuyersMarket #FirstTimeHomeBuyer #RoyalLePage"
+    },
+    {
+      "id": "04-free-home-value",
+      "date": "Wed Nov 18",
+      "template": "insight",
+      "eyebrow": "For homeowners · Surrey · Langley · Delta",
+      "number_html": "Free<i>.</i>",
+      "caption_html": "Find out what your home is worth in <i>today's market.</i>",
+      "body": "Prices have shifted a lot since 2022. I'll prepare a no-obligation home value report for your property, based on recent sales near you. No pressure to list.",
+      "cta": "DM me \"VALUE\" or call 604.562.4004",
+      "source": "Not intended to solicit properties currently listed for sale.",
+      "caption": "🏠 What's your home worth right now?\n\nPrices across the Fraser Valley have moved a lot since 2022, so the number you have in your head may be out of date.\n\nI'll prepare a free, no-obligation home value report for your Surrey, Langley or Delta property, based on recent sales near you. No pressure to list, just real numbers so you can plan your next move.\n\n👉 DM me \"VALUE\" or call/text 604.562.4004.\n\nਘਰ ਦੀ ਕੀਮਤ ਜਾਣਨ ਲਈ ਅੱਜ ਹੀ ਸੰਪਰਕ ਕਰੋ।\n\n🌐 www.harmangrewalrealtor.ca\nHarman Grewal, REALTOR® · Royal LePage Global Force Realty\n\n#HomeValue #SurreyRealEstate #LangleyRealEstate #DeltaBC #ThinkingOfSelling #FraserValley #RoyalLePage #SurreyHomes"
+    },
+    {
+      "id": "05-langley-oct-2026",
+      "date": "Thu Nov 19",
+      "template": "stats_city",
+      "eyebrow": "Market snapshot · October 2026",
+      "city_html": "Langley<i>.</i>",
+      "tag": "Townhomes holding best",
+      "prices": [
+        {
+          "type": "Detached",
+          "price": "$1.448M"
+        },
+        {
+          "type": "Townhouse",
+          "price": "$800.6K"
+        },
+        {
+          "type": "Apartment",
+          "price": "$522.3K"
+        }
+      ],
+      "kpis": [
+        {
+          "value": "-6.5%",
+          "label": "Detached vs Oct 2025"
+        },
+        {
+          "value": "-3.7%",
+          "label": "Townhouse vs Oct 2025"
+        },
+        {
+          "value": "-8.4%",
+          "label": "Apartment vs Oct 2025"
+        }
+      ],
+      "note_html": "Langley townhomes have held their value best, down just <b>3.7%</b> from last year. Detached prices dipped 1.6% in October alone.",
+      "source": "Source: Fraser Valley Real Estate Board, October 2026 statistics package (City and Township combined). Benchmark prices, MLS® HPI. Not intended to solicit properties currently listed for sale.",
+      "caption": "📍 Langley market snapshot: October 2026\n\nBenchmark prices (City + Township) and change from last October:\n🏡 Detached $1,448,100 (down 6.5%)\n🏘️ Townhouse $800,600 (down 3.7%)\n🏢 Apartment $522,300 (down 8.4%)\n\nTownhomes are holding their value best in Langley. Detached homes slipped 1.6% in October alone, which is opening doors for families who want a yard.\n\nWant a list of what's available in your price range? DM me or call 604.562.4004.\n\n🌐 www.harmangrewalrealtor.ca\nHarman Grewal, REALTOR® · Royal LePage Global Force Realty\nSource: Fraser Valley Real Estate Board\n\n#LangleyRealEstate #LangleyBC #Willoughby #WalnutGrove #TownhomeLiving #FraserValley #MarketUpdate #RoyalLePage"
+    },
+    {
+      "id": "06-skytrain-spotlight",
+      "date": "Fri Nov 20",
+      "template": "tips",
+      "eyebrow": "Neighbourhood spotlight · Fraser Highway",
+      "title_html": "SkyTrain is coming<br><i>to your neighbourhood.</i>",
+      "tips": [
+        {
+          "title": "Green Timbers & 152 Street",
+          "body": "First new stops east of King George Station."
+        },
+        {
+          "title": "Fleetwood & Bakerview-166 St",
+          "body": "Fleetwood Town Centre gets two stations."
+        },
+        {
+          "title": "Hillcrest-184 St & Clayton",
+          "body": "West and east Clayton, one of Surrey's fastest-growing areas."
+        },
+        {
+          "title": "Willowbrook",
+          "body": "Right at Willowbrook Mall in Langley."
+        },
+        {
+          "title": "Langley City Centre",
+          "body": "End of the line at 203 Street. Service expected late 2029."
+        }
+      ],
+      "cta": "Ask me which homes are near a future station",
+      "source": "Source: TransLink/TI Corp Surrey Langley SkyTrain status report, May 2026: 16 km, 8 stations along Fraser Highway, in service expected late 2029.",
+      "caption": "🚆 SkyTrain is coming to Fraser Highway.\n\nThe Surrey Langley SkyTrain will extend the Expo Line 16 km from King George Station to Langley City Centre, with 8 new stations:\n\n📍 Green Timbers (140 St)\n📍 152 Street\n📍 Fleetwood (160 St)\n📍 Bakerview-166 Street\n📍 Hillcrest-184 Street\n📍 Clayton (189 St)\n📍 Willowbrook (196 St)\n📍 Langley City Centre (203 St)\n\nService is expected to start in late 2029, according to the project's latest status report. Homes within walking distance of a station are worth a close look, whether you're buying to live or to invest.\n\nWant a list of homes near a future station? DM me \"SKYTRAIN\" or call 604.562.4004.\n\n🌐 www.harmangrewalrealtor.ca\nHarman Grewal, REALTOR® · Royal LePage Global Force Realty\n\n#SurreyLangleySkyTrain #Fleetwood #Clayton #Willowbrook #LangleyCity #SurreyRealEstate #LangleyRealEstate #RoyalLePage"
+    },
+    {
+      "id": "07-punjabi-intro",
+      "date": "Wed Nov 25",
+      "template": "brand",
+      "eyebrow": "Surrey · Langley · Delta",
+      "title_html": "ਘਰ ਖਰੀਦਣਾ ਜਾਂ ਵੇਚਣਾ ਹੈ?<i style=\"font-style:normal\">ਮੁਫਤ ਸਲਾਹ ਲਓ।</i>",
+      "points": [
+        "ਪਹਿਲਾ ਘਰ ਖਰੀਦਣ ਵਾਲੇ",
+        "ਨਿਵੇਸ਼ ਪ੍ਰਾਪਰਟੀ",
+        "ਜ਼ਮੀਨ ਅਤੇ ਫਾਰਮ",
+        "ਕਮਰਸ਼ੀਅਲ ਪ੍ਰਾਪਰਟੀ"
+      ],
+      "caption": "ਘਰ ਖਰੀਦਣਾ ਜਾਂ ਵੇਚਣਾ ਹੈ? 🏡\n\nਸਰੀ, ਲੈਂਗਲੀ ਅਤੇ ਡੈਲਟਾ ਵਿੱਚ ਮੁਫਤ ਸਲਾਹ ਲਈ ਅੱਜ ਹੀ ਕਾਲ ਕਰੋ। ਪੰਜਾਬੀ, ਹਿੰਦੀ ਅਤੇ ਅੰਗਰੇਜ਼ੀ ਵਿੱਚ ਸੇਵਾ।\n\nघर खरीदना या बेचना है? मुफ़्त सलाह के लिए आज ही कॉल करें।\n\nBuying or selling in Surrey, Langley or Delta? I'm happy to talk it through in Punjabi, Hindi or English, with no obligation.\n\n📞 604.562.4004\n✉️ harman.grewal.realtor@gmail.com\n🌐 www.harmangrewalrealtor.ca\nHarman Grewal, REALTOR® · Royal LePage Global Force Realty\n\n#PunjabiRealtor #SurreyRealtor #SurreyRealEstate #LangleyRealEstate #DeltaBC #PunjabiCommunity #RoyalLePage"
+    },
+    {
+      "id": "08-north-delta-oct-2026",
+      "date": "Thu Nov 26",
+      "template": "stats_city",
+      "eyebrow": "Market snapshot · October 2026",
+      "city_html": "N. Delta<i>.</i>",
+      "tag": "Prices ticking up",
+      "prices": [
+        {
+          "type": "Detached",
+          "price": "$1.166M"
+        },
+        {
+          "type": "Townhouse",
+          "price": "$867.5K"
+        },
+        {
+          "type": "Apartment",
+          "price": "$475.7K"
+        }
+      ],
+      "kpis": [
+        {
+          "value": "+0.5%",
+          "label": "Detached vs Sept"
+        },
+        {
+          "value": "+2.6%",
+          "label": "Townhouse vs Sept"
+        },
+        {
+          "value": "-9.2%",
+          "label": "Detached vs Oct 2025"
+        }
+      ],
+      "note_html": "North Delta bucked the trend in October, with detached and townhouse prices rising. Detached homes still sit about <b>$214,000 below Surrey's</b>.",
+      "source": "Source: Fraser Valley Real Estate Board, October 2026 statistics package. Benchmark prices, MLS® HPI. Not intended to solicit properties currently listed for sale.",
+      "caption": "📍 North Delta market snapshot: October 2026\n\nBenchmark prices:\n🏡 Detached $1,165,900 (up 0.5% from September, down 9.2% from last year)\n🏘️ Townhouse $867,500 (up 2.6% from September)\n🏢 Apartment $475,700 (down 0.7% from September)\n\nNorth Delta bucked the trend in October: detached and townhouse prices both rose. Even so, a detached home here benchmarks about $214,000 below Surrey's.\n\nIf you want a house without the Surrey price tag, call or text 604.562.4004 and I'll show you what's available.\n\n🌐 www.harmangrewalrealtor.ca\nHarman Grewal, REALTOR® · Royal LePage Global Force Realty\nSource: Fraser Valley Real Estate Board\n\n#NorthDelta #DeltaBC #DeltaRealEstate #SurreyRealEstate #DetachedHome #HomeBuyers #FraserValley #RoyalLePage"
+    }
+  ]
+}
